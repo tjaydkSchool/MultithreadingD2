@@ -1,0 +1,2 @@
+As you can see from running the processes - by using more cores on the system the process time is approximately halfed
+this is only on systems that have more than one core - and the process time also depends on the system, the processor etc
